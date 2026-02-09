@@ -8,7 +8,7 @@ SpectrumSlam Dataset
 
 
 
-# SpectrumSlam Dataset - "Spectral Sensing: A Low-Cost and Accurate Solution for Indoor Robotic SLAM"
+
 
 <p align="center">
   <a href="">

@@ -6,19 +6,11 @@
   </a>
 </p>
 
+
 <h1 align="center">
-  [Link](https://pan.sjtu.edu.cn/web/share/1d50c578ddbfeded8d0b4485fa905254)
+
+
 [Link](https://pan.sjtu.edu.cn/web/share/1d50c578ddbfeded8d0b4485fa905254) 
-
-</h1>
-<br>
-
-<h1 align="center">
-MNE-SLAM: Multi-Agent Neural SLAM for Mobile Robots
-
-[CVPR 2025]
-
-[INS Dataset Page](https://pan.sjtu.edu.cn/web/share/1d50c578ddbfeded8d0b4485fa905254) | [Paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Deng_MNE-SLAM_Multi-Agent_Neural_SLAM_for_Mobile_Robots_CVPR_2025_paper.pdf)
 
 </h1>
 <br>

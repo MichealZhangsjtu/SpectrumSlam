@@ -6,7 +6,7 @@
   </a>
 </p>
 
-### [Download Link：SpectrumSlam](https://pan.sjtu.edu.cn/web/share/1d50c578ddbfeded8d0b4485fa905254) 
+### [Dataset Link：SpectrumSlam](https://pan.sjtu.edu.cn/web/share/1d50c578ddbfeded8d0b4485fa905254) 
 
 ## Overview
 ### Exhibition_Space (617 MB) 

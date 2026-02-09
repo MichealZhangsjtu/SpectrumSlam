@@ -1,4 +1,14 @@
-# The dataset collected in the paper "Spectral Sensing: A Low-Cost and Accurate Solution for Indoor Robotic SLAM"
+<h1 align="center">
+SpectrumSlam Dataset
+
+"Spectral Sensing: A Low-Cost and Accurate Solution for Indoor Robotic SLAM"
+
+</h1>
+<br>
+
+
+
+# SpectrumSlam Dataset - "Spectral Sensing: A Low-Cost and Accurate Solution for Indoor Robotic SLAM"
 
 <p align="center">
   <a href="">
@@ -8,7 +18,9 @@
 
 
 <h1 align="center">
+SpectrumSlam Dataset
 
+"Spectral Sensing: A Low-Cost and Accurate Solution for Indoor Robotic SLAM"
 
 [Link-SpectrumSlam](https://pan.sjtu.edu.cn/web/share/1d50c578ddbfeded8d0b4485fa905254) 
 
